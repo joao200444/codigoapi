@@ -3,7 +3,7 @@ const bibliotecaData = {
     obras: [
         {
             id: '1',
-            titulo: 'Bale Through the Heavens',
+            titulo: 'Battle Through the Heavens',
             sinopse: 'Uma história de cultivo onde o protagonista perde seus poderes e precisa recuperá-los.',
             imagem: 'https://m.media-amazon.com/images/M/MV5BODkyYTRlMDItY2EzYy00OWVjLWJhNWQtZDJhZTU5NzhlZDZjXkEyXkFqcGdeQXVyNjMxNzQ2NTQ@._V1_FMjpg_UX1000_.jpg',
             genero: 'Ação',
